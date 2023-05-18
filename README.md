@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kamil</h1>
-<h3 align="center">A passionate fullstack developer from Poland</h3>
+<h1 align="left">Hi 👋, I'm Kamil</h1>
+<h3 align="left">A passionate junior fullstack JS developer from Poland</h3>
 
 <p align="left"> I focus on Nodejs,React, Vue, JS, HTML, CSS. I looking for first experiecne in IT </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: GitHub</h3>
 <p align="left">
 </p>
 
